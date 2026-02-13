@@ -1,5 +1,11 @@
 [
 
+    {
+    "version": "2.0",
+    "buildDate": "2026-02-13",
+    "details": "Focused on improving the app and bug fixes. \n1. Fixed home page scrolling bug, \n2. updated homepage colors to accomodate non system colors, \n3. updated the countdown bars to show in real time, \n4. fixed the bug on ipad that dismissed the page when the + icon was pressed, \n5. Added tips for firt time users on how to use the app. \n There was a few more improvements and bug fixes"
+  },
+
   {
     "version": "1.3.0",
     "buildDate": "2025-09-08",
