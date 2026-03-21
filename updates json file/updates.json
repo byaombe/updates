@@ -1,4 +1,9 @@
 [
+      {
+    "version": "2.1",
+    "buildDate": "2026-03-14",
+    "details": "Here's some improvements that was made in this version. \n1. new count up widget with milestones, \n2. fixed widgets color adaptation to dark mode, \n3. slightly updated the charts design, \n4. added in-app review option. \n There was a few more improvements and bug fixes, hope you enjoy the app!"
+  },
 
     {
     "version": "2.0",
