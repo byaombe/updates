@@ -1,4 +1,9 @@
 [
+        {
+    "version": "3.0",
+    "buildDate": "2026-09-30",
+    "details": "Our biggest update yet! \n1. Track this week, month or year, and it starts over on its own. \n2. Four Home layouts: List, Cards, Stamps and Compact. \n3. Lock Screen widgets, plus new large Birthday Calendar, Countdown Calendar and Longest Count Ups widgets. \n4. A widget gallery inside the app, showing your own dates. \n5. 12 progress styles for your events and widgets, and you can try them all free for 24 hours. \n6. Reminders are now free, and birthday reminders repeat every year. Premium adds several reminders per event at the time you choose. \n7. Share any date as an image, or share a recap of your year. \n8. Insights rebuilt around your time. \n9. Widget fonts, photo backgrounds and accent colors (Premium). \n10. On iPad, your list sits beside the detail, and adding a date opens a full page with a live preview. \n11. Now in German, Spanish and French. \n12. Redesigned onboarding, Insights, Notes and Settings, with better accessibility. \n There were many more improvements and bug fixes, including blank widgets and birthdays on the day itself. Hope you enjoy it!"
+  },
       {
     "version": "2.1",
     "buildDate": "2026-03-14",
